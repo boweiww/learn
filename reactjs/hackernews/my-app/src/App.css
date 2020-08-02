@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+#input{
+  font-size:20pt;
+  height:50px;
+  width:300px;
+}
+#button{
+  font-size:22pt;
+  height:50px;
+}
+#changePage{
+  font-size:18pt;
+  height:40px;
+}
+#pageNum{
+  display:inline;
+}
+.interactions {
+  text-align: center;
+  height:100px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

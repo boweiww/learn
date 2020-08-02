@@ -84,9 +84,9 @@ ax.set_zlim3d([-10, 10])
 ax.set_zlabel('Z')
 
 ax.set_title('3D Test')
-pp = [[1,1,1],[1,2,1],[1,1,3]]
-pp = np.array(pp)
-newtonGravity(weight1,weight2,weight3,pp)
+# pp = [[1,1,1],[1,2,1],[1,1,3]]
+# pp = np.array(pp)
+# newtonGravity(weight1,weight2,weight3,pp)
 
 
 # # Creating the Animation object
